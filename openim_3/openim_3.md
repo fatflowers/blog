@@ -4,7 +4,15 @@
 
 
 ## 触发场景
+openimserver-openim-msggateway-0.openimserver-openim-msggateway-headless.eve-cn-infra-dev.svc.cluster.local
 
+openim-push 
+env
+MY_MSGGATEWAY_REPLICACOUNT
+
+这个变量需要与msggateway 数量一致
+
+openimserver-openim-push-6f59668d9b-xdpcz 这个容器 cpu 内存上升很快
 
 ## 遇到的问题
 
