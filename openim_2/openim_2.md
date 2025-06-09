@@ -14,6 +14,8 @@
     - `openimserver-openim-push`和`openimserver-openim-msggateway` pod socket数很多
 - 研发人员：手忙脚乱
 
+
+https://github.com/openimsdk/helm-charts/blob/main/charts/openim-server/charts/openim-msggateway/templates/deployment.yaml
 ## 原因
 
 
