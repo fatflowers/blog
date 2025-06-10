@@ -37,7 +37,7 @@
 3. 收件人在站点A等包裹，快递员却把包裹送到了站点B
 
 
-![比喻说明](metaphor.svg)   
+<img src="metaphor.svg" alt="比喻说明" width="600" style="max-width: 100%; height: auto;">   
 
 
 **两个独立的导航系统给出了不同的结果！**
